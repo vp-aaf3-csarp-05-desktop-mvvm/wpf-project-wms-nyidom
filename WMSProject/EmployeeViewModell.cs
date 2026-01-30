@@ -2,5 +2,6 @@
 {
     public class EmployeeViewModell
     {
+        public string Name = "Nagy Anna";
     }
 }
